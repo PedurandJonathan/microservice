@@ -1,0 +1,4 @@
+com/example/webservice3/Webservice3Application.java
+ com.example.webservice3.Webservice3Application
+com/example/webservice3/Microservice3.java
+ com.example.webservice3.Microservice3

@@ -1,0 +1,2 @@
+com/example/webservice1/Webservice1ApplicationTests.java
+ com.example.webservice1.Webservice1ApplicationTests
